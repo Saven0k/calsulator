@@ -1,0 +1,6 @@
+startUser enter number first (1.1+2j)
+User enter operation +
+User enter second number (1.1+2j)
+all
+Calc work  = +
+end
